@@ -6,3 +6,4 @@ pytest-icdiff
 mypy
 setuptools
 flask
+tenacity
